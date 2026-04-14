@@ -10,11 +10,18 @@
         "license-check": "./bin/licenseCheck.js"
     },
     "scripts": {
-        "start": "node bin/licenseCheck.js"
+        "start": "node bin/licenseCheck.js",
+        "cdep": "madge --circular src",
+        "lint:prettier": "prettier --check ."
     },
     "dependencies": {
         "license-checker": "^25.0.1",
         "yargs": "^18.0.0"
+    },
+    "devDependencies": {
+        "@js-soft/license-check": "^1.0.10",
+        "madge": "^8.0.0",
+        "prettier": "^3.8.2"
     },
     "publishConfig": {
         "access": "public",
