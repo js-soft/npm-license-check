@@ -1,6 +1,5 @@
 {
     "name": "@js-soft/license-check",
-    "version": "1.0.10",
     "description": "Check for green licenses",
     "repository": "github:js-soft/npm-license-check",
     "license": "MIT",
@@ -21,7 +20,7 @@
     "devDependencies": {
         "@js-soft/license-check": "^1.0.10",
         "madge": "^8.0.0",
-        "prettier": "^3.8.2"
+        "prettier": "^3.9.4"
     },
     "publishConfig": {
         "access": "public",
