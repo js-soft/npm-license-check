@@ -28,6 +28,7 @@ const DEFAULT_GREEN_LICENSES = [
     "FTL",
     "IPL-1.0",
     "ISC",
+    "ISC*",
     "LGPL-2.0",
     "LGPL-2.1",
     "LGPL-3.0",
