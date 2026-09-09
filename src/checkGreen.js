@@ -24,6 +24,7 @@ const DEFAULT_GREEN_LICENSES = [
     "CDDL-1.1",
     "CPL-1.0",
     "EPL-1.0",
+    "EPL-2.0",
     "FTL",
     "IPL-1.0",
     "ISC",
